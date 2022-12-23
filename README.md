@@ -4,7 +4,7 @@
 
 ## 🎨 Layout
 
-<img src="./logo.jpg" width="2000px" alt="foto wanderson"/><br>
+<img src="./img/logo.jpg" width="2000px" alt="logo"/><br>
 
 <hr>
 
@@ -38,7 +38,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
      <td align="center">
       <a href="#">
-        <img src="./foto.jpg/" width="100px" alt="foto wanderson"/><br>
+        <img src="./img/foto.jpg" width="200px" alt="logo"/><br>
         <sub>
           <b>wanderson de farias</b>
         </sub>
