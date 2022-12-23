@@ -38,7 +38,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
      <td align="center">
       <a href="#">
-        <img src="./foto.jpg/" width="100px" alt="foto wanderson"/><br>
+        <img src="./Foto.jpg/" width="100px" alt="foto wanderson"/><br>
         <sub>
           <b>wanderson de farias</b>
         </sub>
